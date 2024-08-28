@@ -11,7 +11,7 @@ public class Pattermacth_Regex {
         if(matchFound) {
             System.out.println("Match found");
         } else {
-            System.out.println("Match not found");
+            System.out.println("Match not fouhd");
         }
     }
 }
