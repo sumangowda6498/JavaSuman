@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="28 August first commit" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="28 August first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_Abstraction/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_Abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_Abstraction/Shapetester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/Pattermacth_Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/Pattermacth_Regex.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

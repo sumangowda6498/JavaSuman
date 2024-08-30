@@ -12,6 +12,7 @@ public class Pattermacth_Regex {
             System.out.println("Match found");
         } else {
             System.out.println("Match not fouhd");
+            System.out.println("Match not fouhd");
         }
     }
 }
