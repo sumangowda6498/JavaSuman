@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="30 August first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/GrossPayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/GradeMessage_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/LoanQualifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/QuotaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Salarycalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/TestResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/logicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11b_Interfaces/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11b_Interfaces/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter10_a/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter10_a/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/GradeMessage_Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/LoanQualifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/QuotaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/Salarycalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/TestResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/logicalOperator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,14 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/sumana/IdeaProjects/PracticeJava/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sumana/IdeaProjects/PracticeJava/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java" />

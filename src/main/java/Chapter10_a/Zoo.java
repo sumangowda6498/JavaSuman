@@ -15,6 +15,7 @@ public class Zoo {
 
         Cat cat=new Cat();
         cat.makeSound();
+        cat.scratch();
 
         ruby=new Cat();
         ruby.makeSound();
