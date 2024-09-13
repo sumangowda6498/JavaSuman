@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="30 August first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11b_Interfaces/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11b_Interfaces/Product.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="06 September first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/ListArrayList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/ListUnchangeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/Map5Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/Queue4Linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/Sets1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/TreeSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12b_LoopingCollection/LoopCollection1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter10_a/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter10_a/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter10_a/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/Exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/GradeMessage_Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/LoanQualifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/QuotaCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/Salarycalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/TestResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter3/logicalOperator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725023213263</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="06 September first commit">
+      <created>1725618728016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725618728016</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28 August first commit" />
     <MESSAGE value="30 August first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 August first commit" />
+    <MESSAGE value="06 September first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="06 September first commit" />
   </component>
 </project>
