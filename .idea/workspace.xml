@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="13 September commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12CollectionsExercise/Gradebok.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="16 September commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/MaximumEleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Palindromecheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725618728016</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16 September commit">
+      <created>1726493643471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493643471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="16 September commit">
+      <created>1726493654694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493654694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +114,7 @@
     <MESSAGE value="28 August first commit" />
     <MESSAGE value="30 August first commit" />
     <MESSAGE value="06 September first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="06 September first commit" />
+    <MESSAGE value="16 September commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 September commit" />
   </component>
 </project>
