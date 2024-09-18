@@ -8,11 +8,12 @@ public class MaximumEleArray {
 
         int maxxi;
         int j=0;
-        maxxi=arr[j]
+        maxxi=arr[j];
         for ( j=0;j<size;j++){
            if(arr[j]>maxxi){
                maxxi=arr[j];
            }
         }
+        System.out.println("Maxii is "+maxxi);
     }
 }
