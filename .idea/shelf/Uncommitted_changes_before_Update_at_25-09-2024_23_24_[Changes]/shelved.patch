@@ -1,0 +1,253 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"db220dd1-5830-413d-b337-474d6b09bdf9\" name=\"Changes\" comment=\"30 August first commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/chapter12CollectionsExercise/TestResult.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2l3Cs1nND11DxmZ1cn7JQ5a73Fw\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"C:/Users/sumana/IdeaProjects/PracticeJava/src/main/java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\sumana\\IdeaProjects\\PracticeJava\\src\\main\\java\" />\r\n      <recent name=\"C:\\Users\\sumana\\IdeaProjects\\PracticeJava\\src\\main\\java\\Chapter7\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"Task\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"db220dd1-5830-413d-b337-474d6b09bdf9\" name=\"Changes\" comment=\"\" />\r\n      <created>1724399577998</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1724399577998</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"28 August first commit\">\r\n      <created>1724851776376</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724851776376</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"30 August first commit\">\r\n      <created>1725023213263</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725023213263</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"28 August first commit\" />\r\n    <MESSAGE value=\"30 August first commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"30 August first commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0347fee3a2f79e1ea73230663ee761cb2e73004e)
++++ b/.idea/workspace.xml	(date 1727198192990)
+@@ -4,9 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="30 August first commit">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12CollectionsExercise/TestResult.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/Hashmap.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12CollectionsExercise/Gradebook.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13Exeception.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -28,27 +29,31 @@
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 7
++}</component>
+   <component name="ProjectId" id="2l3Cs1nND11DxmZ1cn7JQ5a73Fw" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master",
+-    "last_opened_file_path": "C:/Users/sumana/IdeaProjects/PracticeJava/src/main/java"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/suman/IdeaProjects/SeleniumAutomationFramework&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java" />
+       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java\Chapter7" />
+     </key>
+     <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="Chapter12_Collections" />
+       <recent name="Task" />
+     </key>
+   </component>
+@@ -75,7 +80,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1725023213263</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="15 September first commit">
++      <option name="closed" value="true" />
++      <created>1726424228162</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1726424228163</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -92,6 +105,18 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="28 August first commit" />
+     <MESSAGE value="30 August first commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="30 August first commit" />
++    <MESSAGE value="15 September first commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="15 September first commit" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/main/java/chapter12CollectionsExercise/Gradebook.java</url>
++          <line>24</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/main/java/Chapter12_Collections/Hashmap.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Chapter12_Collections/Hashmap.java b/src/main/java/Chapter12_Collections/Hashmap.java
+new file mode 100644
+--- /dev/null	(date 1726511437025)
++++ b/src/main/java/Chapter12_Collections/Hashmap.java	(date 1726511437025)
+@@ -0,0 +1,35 @@
++package Chapter12_Collections;
++
++import java.util.HashMap;
++import java.util.Iterator;
++import java.util.Set;
++
++public class Hashmap {
++    public static void main(String[] args) {
++        //Hash map contains data sa Key , Value pair.
++        //contains only unique keys
++        //Not synchronised and No order
++        //Java hashmap may have one null key and multiple null value
++
++        HashMap<String,String> hm1=new HashMap<>();
++        hm1.put("qa","http://qa.com");
++        hm1.put("uat","http://develop.com");
++        hm1.put("gdbjsd","https://google");
++        System.out.println(hm1);
++
++//Set s=hm1.keySet();
++
++        //for eachloop
++        for(String key: hm1.keySet()){
++            System.out.println("Key is "+key+" value is "+hm1.get(key));
++        }
++        System.out.println("------------------------------------------------------------");
++        Set s=hm1.keySet();
++        Iterator<String> itr=s.iterator();
++        while(itr.hasNext()){
++            String key=itr.next();
++            System.out.println("Key is: "+key+" value;"+hm1.get(key));
++        }
++
++    }
++}
+Index: src/main/java/chapter13Exeception.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/chapter13Exeception.java b/src/main/java/chapter13Exeception.java
+new file mode 100644
+--- /dev/null	(date 1727200782027)
++++ b/src/main/java/chapter13Exeception.java	(date 1727200782027)
+@@ -0,0 +1,60 @@
++import java.io.File;
++import java.io.FileNotFoundException;
++import java.util.InputMismatchException;
++import java.util.Scanner;
++
++public class chapter13Exeception {
++    public static void main(String[] args) {
++        //createnewFile();
++        numbersExceptionHandling();
++        numbersExceptionHandling2();
++
++
++    }
++
++
++
++    private static void createnewFile() {
++        File file= new File("resources/nonexistant.txt");
++        try {
++            file.createNewFile();
++
++        }catch (Exception e){
++            System.out.println("Directory does not exist");
++            e.printStackTrace();
++        }
++    }
++
++    private static void numbersExceptionHandling() {
++        File file= new File("resources/number.txt");
++        Scanner fileReader=null;
++       try {
++            fileReader=new Scanner(file);  //file not found exception
++           while (fileReader.hasNext()){
++double num=fileReader.nextDouble();
++               System.out.println(num);
++           }
++       }catch (FileNotFoundException |InputMismatchException e){
++           System.out.println("\nnumbersExceptionHandling");
++            e.printStackTrace();
++       }finally {
++           fileReader.close();
++       }
++
++    }
++
++    private static void numbersExceptionHandling2() {
++        File file= new File("resources/number.txt");
++
++        try(Scanner fileReader=new Scanner(file)) {
++           //file not found exception
++            while (fileReader.hasNext()){
++                double num=fileReader.nextDouble();
++                System.out.println(num);
++            }
++        }catch (FileNotFoundException |InputMismatchException e){
++
++            System.out.println("\nnumbersExceptionHandling2"); e.printStackTrace();
++        }
++    }
++}
+Index: src/main/java/chapter12CollectionsExercise/Gradebook.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/chapter12CollectionsExercise/Gradebook.java b/src/main/java/chapter12CollectionsExercise/Gradebook.java
+new file mode 100644
+--- /dev/null	(date 1727113449995)
++++ b/src/main/java/chapter12CollectionsExercise/Gradebook.java	(date 1727113449995)
+@@ -0,0 +1,26 @@
++package chapter12CollectionsExercise;
++
++import java.util.Map;
++
++public class Gradebook {
++    public static void main(String[] args) {
++        Map<String, Integer> gradebook=TestResult.getoriginalgrades();
++        Map<String, Integer> test2=TestResult.getMakeupGrade();
++
++        for (var student:test2.entrySet()){
++           Integer firstgrade=gradebook.get(student.getKey());
++           Integer secondgrde=test2.get(student.getKey());
++
++                if(firstgrade<secondgrde){
++                        gradebook.put(student.getKey(),secondgrde);
++
++                    }
++
++        }
++        System.out.println("Final grades");
++        for(var entry:gradebook.entrySet()){
++            System.out.println(entry.getKey()+" :" +
++                    " "+entry.getValue());
++        }
++    }
++}
