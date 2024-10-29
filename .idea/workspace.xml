@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="27 October">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/PrimeNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/VowelsConsonentsCount.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="28 October">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/RemoveDuplicatenumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/SortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730052213271</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="28 October">
+      <created>1730125405609</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730125405609</updated>
+    </task>
+    <task id="LOCAL-00012" summary="28 October">
+      <created>1730125455091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730125455091</updated>
+    </task>
+    <task id="LOCAL-00013" summary="28 October">
+      <created>1730125479269</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730125479269</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +176,7 @@
     <MESSAGE value="17 September commit" />
     <MESSAGE value="01 October" />
     <MESSAGE value="27 October" />
-    <option name="LAST_COMMIT_MESSAGE" value="27 October" />
+    <MESSAGE value="28 October" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 October" />
   </component>
 </project>
