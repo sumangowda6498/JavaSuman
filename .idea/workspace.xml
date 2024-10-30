@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="28 October">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/MergeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/RemoveDuplicatenumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/SortArray.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="29 October">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730125479269</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="29 October">
+      <created>1730212214903</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730212214903</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +181,7 @@
     <MESSAGE value="01 October" />
     <MESSAGE value="27 October" />
     <MESSAGE value="28 October" />
-    <option name="LAST_COMMIT_MESSAGE" value="28 October" />
+    <MESSAGE value="29 October" />
+    <option name="LAST_COMMIT_MESSAGE" value="29 October" />
   </component>
 </project>
