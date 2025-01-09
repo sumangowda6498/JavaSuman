@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 03 January 2025 Class:Constructor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2_Udemy/thisKeyword.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 07 January 2025 Class:Constructor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Variables/StaticVarible.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2_Udemy/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2_Udemy/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2_Udemy/thisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter_Constructor2_Udemy/thisKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735913221360</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit 07 January 2025 Class:Constructor">
+      <created>1736260957499</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736260957499</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +239,7 @@
     <MESSAGE value="Commit 02 January 2025 Class: ReapeatedCharacterInAWORD" />
     <MESSAGE value="Commit 02 January 2025 Class: Date class" />
     <MESSAGE value="Commit 03 January 2025 Class:Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 03 January 2025 Class:Constructor" />
+    <MESSAGE value="Commit 07 January 2025 Class:Constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 07 January 2025 Class:Constructor" />
   </component>
 </project>
