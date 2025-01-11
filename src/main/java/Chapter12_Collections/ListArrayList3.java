@@ -22,16 +22,6 @@ public class ListArrayList3 {
 
         fruits.add(3, "Bacchangayee");
         System.out.println("3 "+fruits.get(3));
-        System.out.println("index of Banana"+fruits.indexOf("Banana"));//1
-
-        System.out.println(fruits);
-
-//Using for loop
-        for(String fruit: fruits){
-            System.out.println(fruit);
-        }
-
-        fruits.remove("Banana");
-        System.out.println(fruits);
+        System.out.println("index"+fruits.indexOf("Banana"));
     }
 }

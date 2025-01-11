@@ -7,6 +7,7 @@ public class InheritenceConstructor {
         employee.setTitle("The Employee");
         System.out.println(employee.getEmployeeid());
         System.out.println(employee.getTitle());
+        System.out.println(employee.getName());
 
 
         Person person=new Person();
@@ -17,11 +18,11 @@ public class InheritenceConstructor {
         System.out.println(employee.getName());
         System.out.println(person.getName());
         System.out.println(person1.getName());
-
-        Mother mother=new Mother();
-        mother.setName("India");
-        mother.setAge(1000);
-        System.out.println(mother.getName()+"is a "+mother.getGender()+" Age "+mother.getAge());
+//
+//        Mother mother=new Mother();
+//        mother.setName("India");
+//        mother.setAge(1000);
+//        System.out.println(mother.getName()+"is a "+mother.getGender()+" Age "+mother.getAge());
 
     }
 }

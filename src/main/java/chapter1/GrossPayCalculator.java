@@ -23,6 +23,11 @@ public class GrossPayCalculator {
 
         //4. Display result
         System.out.println("The employee's gross pay is $" + grossPay);
+
+        int x=1;
+        int y=x++;
+        System.out.println(x);
+        System.out.println(y);
     }
 
 }

@@ -11,11 +11,13 @@ public class Book  implements Product{
 
     @Override
     public double getPrice() {
+
         return price;
     }
 
     @Override
     public void setPrice(double price) {
+
         this.price = price;
     }
 

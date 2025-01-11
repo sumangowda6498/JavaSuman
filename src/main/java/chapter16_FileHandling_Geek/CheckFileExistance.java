@@ -8,7 +8,7 @@ import java.io.File;
 public class CheckFileExistance {
     public static void main(String[] args) {
         // accept file name or directory name through
-        String fname= "C:/User/sumana/Desktop/star.java";
+        String fname= "C:/Users/suman/Desktop/TAU_Selenium_Webdriver.txt";
 
         // pass the filename or directory name to File
         // object

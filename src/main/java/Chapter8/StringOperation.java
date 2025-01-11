@@ -1,11 +1,17 @@
 package Chapter8;
 
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
+
 public class StringOperation {
     public static void main(String[] args) {
         //countwords("I will become a developer");
        // reverseString("PAKI STAN");
        // reverseString2("PAKISTAN");
         addSpaces("HappyWeekendToAll");
+        System.out.println("Appeared: "+countOccurence("The Great India and India","India"));
 
     }
 
@@ -37,7 +43,7 @@ public class StringOperation {
     }
     public static void addSpaces(String text){
                                                  //0123456789
-       var modifiedtext=new StringBuilder(text);//HappyWeekendToAll
+       var modifiedtext=new StringBuilder(text);//HappyWeekendToAll, Stringbuilder- used to build Strimng from msny small string or to add spacing
        for (int i=0;i<modifiedtext.length();i++){
           if(i!=0 && Character.isUpperCase(modifiedtext.charAt(i))){
               modifiedtext.insert(i, " ");
@@ -45,5 +51,13 @@ public class StringOperation {
           }
        }
         System.out.println(modifiedtext);
+    }
+
+    public static int countOccurence(String str, String word){
+       //Splitting strings into words
+       List<String> wordList= Arrays.asList(str.split("\\s+"));
+
+       return Collections.frequency(wordList, word);
+
     }
 }

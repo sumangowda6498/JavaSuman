@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class Hashmap {
     public static void main(String[] args) {
-        //Hash map contains data sa Key , Value pair.
+        //Hash map contains data as Key Value pair.
         //contains only unique keys
         //Not synchronised and No order
         //Java hashmap may have one null key and multiple null value
