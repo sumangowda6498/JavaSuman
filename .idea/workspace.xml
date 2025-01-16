@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 08 January 2025 Class:Constructor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clolections_List/Arraylist.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 16 January 2025 Class:Constructor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clolections_List/Arralist_Exercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Clolections_List/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Clolections_List/Arraylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736260957499</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit 14 January 2025 Class:Constructor">
+      <created>1736864738291</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736864738291</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +248,8 @@
     <MESSAGE value="Commit 02 January 2025 Class: Date class" />
     <MESSAGE value="Commit 03 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 07 January 2025 Class:Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 07 January 2025 Class:Constructor" />
+    <MESSAGE value="Commit 14 January 2025 Class:Constructor" />
+    <MESSAGE value="Commit 16 January 2025 Class:Constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 16 January 2025 Class:Constructor" />
   </component>
 </project>
