@@ -1,4 +1,4 @@
-package Clolections_List;
+package Collections_List;
 import java.util.ArrayList;
 
 public class Arraylist {
