@@ -18,7 +18,8 @@ public class Hashset {
         System.out.println(hs.remove("Pakistan")+"remv Pakistan");
         System.out.println("Is empty: "+hs.isEmpty() );
         System.out.println("Size: "+hs.size());
-        System.out.println("");
+        System.out.println("hsi");
+
 
         Iterator<String> i= hs.iterator();
         while (i.hasNext()){     // hasNext() returns boolean value . it checks whether next element present or not
