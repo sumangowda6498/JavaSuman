@@ -2,7 +2,8 @@ package Task;
 
 import java.util.ArrayList;
 
-public class Collectiontask_Amazon_repeatedNumberArray {
+public class
+Collectiontask_Amazon_repeatedNumberArray {
     public static void main(String[] args) {
 
         int a[]={4,5,5,5,6,4,6,7,4,4};

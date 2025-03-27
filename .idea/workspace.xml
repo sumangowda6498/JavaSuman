@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 17 march udemy rakesh 2025 Task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/AutoSuggestive58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Checkbox60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Checkbox62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_14_2025_11_42_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_14_2025_11_42_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/msedgedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/resources/msedgedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/Collectiontask_Amazon_repeatedNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/Collectiontask_Amazon_repeatedNumberArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/StarsTraingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/StarsTraingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Checkbox60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Checkbox60.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +36,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2l3Cs1nND11DxmZ1cn7JQ5a73Fw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sumana/IdeaProjects/PracticeJava/resources&quot;
   }
 }</component>
@@ -247,14 +259,7 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00027" summary="Commit 17 march udemy rakesh 2025 Task">
-      <created>1742221984505</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1742221984505</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
