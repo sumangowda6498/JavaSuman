@@ -18,7 +18,7 @@ public class DynamicDropdown55 {
         //or
         ////div[@id='glsctl00_mainContent_ddl_destinationStation1_CTNR'] //a[@value='BLR']  give space between parent and child
         driver.findElement(By.xpath("//div[@id='glsctl00_mainContent_ddl_destinationStation1_CTNR'] //a[@value='BLR']")).click();
-
+////*[@id="ctl00_mainContent_ddl_destinationStation1"]/option[4]
 
     }
 }

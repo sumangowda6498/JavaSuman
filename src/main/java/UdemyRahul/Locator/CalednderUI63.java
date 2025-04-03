@@ -15,14 +15,18 @@ public class CalednderUI63 {
         driver.manage().window().maximize();
         Thread.sleep(2000);
         //                        ctl00_mainContent_ddl_originStation1
-        driver.findElement(By.xpath("/html/body/form/div[4]/div[2]/div/div[5]/div[2]/div[2]/div[2]/div[3]/div/div[3]/div/div[1]/select")).click();
+        driver.findElement(By.id("ctl00_mainContent_ddl_originStation1_CTXTaction")).click();
         Thread.sleep(2000);
         driver.findElement(By.xpath("//a[@value='BLR']")).click();
 
-        driver.findElement(By.id("ctl00_mainContent_ddl_destinationStation1")).click();
-        driver.findElement(By.xpath("//a[@value='MAA']")).click();
 
-        driver.findElement(By.cssSelector("ui-state-default.ui-state-highlight.ui-state-active")).click();
+      driver.findElement(By.xpath("//a[@value='MAA']")).click();
+//driver.findElement(By.xpath("//*[@id=\"ctl00_mainContent_ddl_destinationStation1\"]/option[4]")).click();
+
+        //driver.findElement(By.xpath("//a[@value='MAA']")).click();
+
+Thread.sleep(2000);
+        driver.findElement(By.cssSelector(".ui-state-default.ui-state-active")).click();  //
         }
 
     }
