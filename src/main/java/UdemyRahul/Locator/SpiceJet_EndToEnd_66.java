@@ -33,15 +33,23 @@ public class SpiceJet_EndToEnd_66 {
         driver.findElement(By.cssSelector("input[id*='SeniorCitizenDiscount']")).click();
         Thread.sleep(2000);
         driver.findElement(By.xpath("//*[@id=\"divpaxinfo\"]")).click();
+        Thread.sleep(2000);
         driver.findElement(By.id("hrefIncAdt")).click();
-int click=1;
-        while (click<5){
-            driver.findElement(By.id("hrefIncAdt")).click();
-            click++;
-        }
+         int click=1;
+       while (click<5){
+        Thread.sleep(2000);
+
+        driver.findElement(By.xpath("//*[@id=\"hrefIncAdt\"]")).click();
+           click++;}
         Thread.sleep(2000);
 
         driver.findElement(By.id("btnclosepaxoption")).click();
         System.out.println(        driver.findElement(By.id("divpaxinfo")).getText());
-    }
-}
+
+        driver.findElement(By.cssSelector("#ctl00_mainContent_btn_FindFlights")).click();
+        //driver.findElement(By.cssSelector("input[value='Search']")).click();
+//        driver.findElement(By.xpath("//input[@value='Search']")).click();
+//        driver.findElement(By.id("ctl00_mainContent_btn_FindFlights")).click();
+
+
+}}
