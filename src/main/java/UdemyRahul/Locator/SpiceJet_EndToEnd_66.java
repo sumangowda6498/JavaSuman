@@ -7,8 +7,8 @@ import org.testng.Assert;
 
 public class SpiceJet_EndToEnd_66 {
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.edge.driver","resources/msedgedriver.exe");
-        WebDriver driver=new EdgeDriver();
+        System.setProperty("webdriver.edge.driver", "resources/msedgedriver.exe");
+        WebDriver driver = new EdgeDriver();
         driver.get("https://rahulshettyacademy.com/dropdownsPractise/#search.aspx?mode=search");
 
         driver.findElement(By.id("ctl00_mainContent_ddl_originStation1_CTXTaction")).click();
@@ -22,11 +22,10 @@ public class SpiceJet_EndToEnd_66 {
 ////*[@id="ctl00_mainContent_ddl_destinationStation1"]/option[4]
 
 
-        if(driver .findElement(By.id("Div1")).getDomAttribute("style").contains("0.5")){
+        if (driver.findElement(By.id("Div1")).getDomAttribute("style").contains("0.5")) {
             System.out.println("Its Disabled");
             Assert.assertTrue(true);
-        }
-        else{
+        } else {
             Assert.assertTrue(false);
         }
         Thread.sleep(2000);
@@ -35,16 +34,17 @@ public class SpiceJet_EndToEnd_66 {
         driver.findElement(By.xpath("//*[@id=\"divpaxinfo\"]")).click();
         Thread.sleep(2000);
         driver.findElement(By.id("hrefIncAdt")).click();
-         int click=1;
-       while (click<5){
-        Thread.sleep(2000);
+        int click = 1;
+        while (click < 5) {
+            Thread.sleep(2000);
 
-        driver.findElement(By.xpath("//*[@id=\"hrefIncAdt\"]")).click();
-           click++;}
+            driver.findElement(By.xpath("//*[@id=\"hrefIncAdt\"]")).click();
+            click++;
+        }
         Thread.sleep(2000);
 
         driver.findElement(By.id("btnclosepaxoption")).click();
-        System.out.println(        driver.findElement(By.id("divpaxinfo")).getText());
+        System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
 
         driver.findElement(By.cssSelector("#ctl00_mainContent_btn_FindFlights")).click();
         //driver.findElement(By.cssSelector("input[value='Search']")).click();
@@ -52,4 +52,5 @@ public class SpiceJet_EndToEnd_66 {
 //        driver.findElement(By.id("ctl00_mainContent_btn_FindFlights")).click();
 
         System.out.println("finished");
-}}
+    }
+}
