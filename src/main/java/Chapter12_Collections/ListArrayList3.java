@@ -3,7 +3,9 @@ package Chapter12_Collections;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListArrayList3 {
+public class
+
+ListArrayList3 {
     public static void main(String[] args) {
         List<String> fruits = new ArrayList<>();
 
