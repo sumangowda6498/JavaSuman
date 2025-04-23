@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task/FindOutput.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 18 April alert udemy rakesh 2025 #64">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Waits_80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/ListArrayList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter12_Collections/ListArrayList3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/AdditemtoCart_71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/AdditemtoCart_71.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +28,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
   <component name="ProjectId" id="2l3Cs1nND11DxmZ1cn7JQ5a73Fw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +39,6 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sumana/IdeaProjects/PracticeJava/resources&quot;
   }
 }</component>
@@ -251,23 +247,56 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00027" summary="Commit 27 march udemy rakesh 2025 Task">
-      <option name="closed" value="true" />
-      <created>1743097549978</created>
+    <task id="LOCAL-00027" summary="Commit 17 march udemy rakesh 2025 Task">
+      <created>1742221984505</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1743097549978</updated>
+      <updated>1742221984505</updated>
     </task>
-    <task id="LOCAL-00028" summary="Commit 19 April udemy rakesh 2025 Task 75">
-      <option name="closed" value="true" />
-      <created>1745072579468</created>
+    <task id="LOCAL-00028" summary="Commit 02 April udemy rakesh 2025 Task">
+      <created>1743603703780</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1745072579468</updated>
+      <updated>1743603703780</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Commit 03 April udemy rakesh 2025 Task">
+      <created>1743689645520</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1743689645520</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Commit 16 April udemy rakesh 2025 #64">
+      <created>1744812667791</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1744812667791</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Commit 17 April udemy rakesh 2025 #64">
+      <created>1744914401030</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1744914401030</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Commit 18 April udemy rakesh 2025 #64">
+      <created>1744969406329</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1744969406330</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Commit 18 April udemy rakesh 2025 #64">
+      <created>1744995044736</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1744995044736</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +311,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="28 August first commit" />
     <MESSAGE value="30 August first commit" />
     <MESSAGE value="06 September first commit" />
     <MESSAGE value="16 September commit" />
@@ -303,8 +331,11 @@
     <MESSAGE value="Commit 17 January 2025 Hash set" />
     <MESSAGE value="Commit 14 march udemy rakesh 2025 Task" />
     <MESSAGE value="Commit 17 march udemy rakesh 2025 Task" />
-    <MESSAGE value="Commit 27 march udemy rakesh 2025 Task" />
-    <MESSAGE value="Commit 19 April udemy rakesh 2025 Task 75" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 19 April udemy rakesh 2025 Task 75" />
+    <MESSAGE value="Commit 02 April udemy rakesh 2025 Task" />
+    <MESSAGE value="Commit 03 April udemy rakesh 2025 Task" />
+    <MESSAGE value="Commit 16 April udemy rakesh 2025 #64" />
+    <MESSAGE value="Commit 17 April udemy rakesh 2025 #64" />
+    <MESSAGE value="Commit 18 April udemy rakesh 2025 #64" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 18 April udemy rakesh 2025 #64" />
   </component>
 </project>
