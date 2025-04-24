@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 18 April alert udemy rakesh 2025 #64">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Waits_80.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 23 April wait udemy rakesh 2025 #80">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/AdditemtoCart_71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/AdditemtoCart_71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Waits_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Waits_80.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1744995044736</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Commit 23 April wait udemy rakesh 2025 #80">
+      <created>1745418360861</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1745418360861</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +317,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="30 August first commit" />
     <MESSAGE value="06 September first commit" />
     <MESSAGE value="16 September commit" />
     <MESSAGE value="17 September commit" />
@@ -336,6 +341,7 @@
     <MESSAGE value="Commit 16 April udemy rakesh 2025 #64" />
     <MESSAGE value="Commit 17 April udemy rakesh 2025 #64" />
     <MESSAGE value="Commit 18 April udemy rakesh 2025 #64" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 18 April udemy rakesh 2025 #64" />
+    <MESSAGE value="Commit 23 April wait udemy rakesh 2025 #80" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 23 April wait udemy rakesh 2025 #80" />
   </component>
 </project>
