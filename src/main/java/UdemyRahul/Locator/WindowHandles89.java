@@ -22,6 +22,9 @@ public class WindowHandles89 {
         System.out.println(driver.findElement(By.className("example")).getText());
         String ex=driver.findElement(By.className("example")).getText().split(" ")[1];
         System.out.println(ex);
+        driver.switchTo().window(parentID);
+        String parenttext=driver.findElement(By.xpath("//*[@id=\"content\"]/div/h3")).getText();
+        System.out.println(parenttext);
 
     }
 }
