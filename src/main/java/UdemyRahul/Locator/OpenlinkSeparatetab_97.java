@@ -24,8 +24,8 @@ public class OpenlinkSeparatetab_97 {
             String clickonlinkotab= Keys.chord(Keys.CONTROL,Keys.ENTER);
 
             coloumndriver.findElements(By.tagName("a")).get(i).sendKeys(clickonlinkotab);
-            Thread.
-                    sleep(5000);
+            Thread.sleep(5000);
+            System.out.println("suman");
         }
     }
 }
