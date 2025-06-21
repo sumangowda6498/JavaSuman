@@ -7,6 +7,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.interactions.Actions;
 
+import java.util.Iterator;
+import java.util.Set;
+
 public class OpenlinkSeparatetab_97 {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.edge.driver","resources/msedgedriver.exe");
@@ -25,7 +28,15 @@ public class OpenlinkSeparatetab_97 {
 
             coloumndriver.findElements(By.tagName("a")).get(i).sendKeys(clickonlinkotab);
             Thread.sleep(5000);
-            System.out.println("suman");
+            System.out.println("suman4");
+
+            Set<String> abc=driver.getWindowHandles();
+            Iterator<String> it= abc.iterator();
+
+            while(it.hasNext()){
+              driver.switchTo().window(it.next());
+                System.out.println(driver.getTitle());
+            }
         }
     }
 }
