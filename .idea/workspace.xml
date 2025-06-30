@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_C/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_C/HomeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter11_C/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/ReverseStringSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/CalenderUI_practiseSite_98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/OpenlinkSeparatetab_97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/OpenlinkSeparatetab_97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/msedgedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/resources/msedgedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/LargestElementArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task/Mirror_Number_Traingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task/Mirror_Number_Traingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1/GrossPayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/GrossPayCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750513435179</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Commit 20 June Taskwu">
+      <option name="closed" value="true" />
+      <created>1750528805447</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1750528805447</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17 September commit" />
     <MESSAGE value="01 October" />
     <MESSAGE value="27 October" />
     <MESSAGE value="28 October" />
@@ -382,6 +398,7 @@
     <MESSAGE value="Commit 18 June Task" />
     <MESSAGE value="Commit 20 June Task" />
     <MESSAGE value="Commit 20 June Taskwe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 20 June Taskwe" />
+    <MESSAGE value="Commit 20 June Taskwu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 20 June Taskwu" />
   </component>
 </project>

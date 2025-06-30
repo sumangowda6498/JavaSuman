@@ -6,6 +6,7 @@ public class Mirror_Number_Traingle {
         for (int i=1;i<=row;i++){
             for (int j=i;j<row;j++) {
                 System.out.print(" ");
+
             }
             for(int k=1;k<=i;k++){
                     System.out.print(k+" ");
