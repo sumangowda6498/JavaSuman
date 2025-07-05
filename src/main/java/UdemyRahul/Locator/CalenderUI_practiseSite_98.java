@@ -38,7 +38,7 @@ public class CalenderUI_practiseSite_98 {
 
         for (int i=0;i<actualList.size();i++){
             System.out.println(actualList.get(i).getAttribute("value"));
-            System.out.println((Assert.assertEquals(actualList.get(i).getAttribute("value"),expectedList[i]));
+            Assert.assertEquals(actualList.get(i).getAttribute("value"),expectedList[i+1]);
         }
 
     }

@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/socClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/socServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/CalenderUI_practiseSite_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/CalenderUI_practiseSite_98.java" afterDir="false" />
     </list>
@@ -61,7 +64,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sumana/IdeaProjects/PracticeJava/resources&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/suman/IdeaProjects/AmazonTestNg_CrossBrowserr&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -358,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751306870445</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Commit 01 July Taskwu">
+      <option name="closed" value="true" />
+      <created>1751392282701</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1751392282701</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="27 October" />
     <MESSAGE value="28 October" />
     <MESSAGE value="29 October" />
     <MESSAGE value="November 15 2" />
@@ -398,6 +408,7 @@
     <MESSAGE value="Commit 20 June Taskwe" />
     <MESSAGE value="Commit 20 June Taskwu" />
     <MESSAGE value="Commit 30 June Taskwu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 30 June Taskwu" />
+    <MESSAGE value="Commit 01 July Taskwu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 01 July Taskwu" />
   </component>
 </project>
