@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/RSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/socClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab_Programs/socServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/ScrollTable_Windowlevel_JavascriptExecutor_101.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/CalenderUI_practiseSite_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/CalenderUI_practiseSite_98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -369,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751392282701</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Commit 06 July Taskwu">
+      <option name="closed" value="true" />
+      <created>1751740457844</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1751740457844</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,7 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="28 October" />
     <MESSAGE value="29 October" />
     <MESSAGE value="November 15 2" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -409,6 +414,7 @@
     <MESSAGE value="Commit 20 June Taskwu" />
     <MESSAGE value="Commit 30 June Taskwu" />
     <MESSAGE value="Commit 01 July Taskwu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 01 July Taskwu" />
+    <MESSAGE value="Commit 06 July Taskwu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 06 July Taskwu" />
   </component>
 </project>
