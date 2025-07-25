@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 
-public class SSLCertCheck {
+public class SSLCertCheck_104 {
     public static void main(String[] args) {
         //Handling SSL Certifications in automated browser
         EdgeOptions options=new EdgeOptions();
