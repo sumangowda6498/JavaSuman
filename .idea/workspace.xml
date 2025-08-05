@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/DeleteCookies_107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/SSLCheck_106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/ScreenShotTake_108.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/DeleteCookies_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/DeleteCookies_107.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753468845109</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Commit 03 August Taskwu">
+      <option name="closed" value="true" />
+      <created>1754236593279</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1754236593279</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,7 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 02 January 2025 Class: Date class" />
     <MESSAGE value="Commit 03 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 07 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 14 January 2025 Class:Constructor" />
@@ -463,6 +470,7 @@
     <MESSAGE value="Commit 12 July Taskwu" />
     <MESSAGE value="Commit 20 July Taskwu" />
     <MESSAGE value="Commit 26 July Taskwu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 26 July Taskwu" />
+    <MESSAGE value="Commit 03 August Taskwu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 03 August Taskwu" />
   </component>
 </project>

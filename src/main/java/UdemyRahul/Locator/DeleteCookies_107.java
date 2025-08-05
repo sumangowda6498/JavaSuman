@@ -10,5 +10,7 @@ public class DeleteCookies_107 {
         driver.manage().window().maximize();
         driver.manage().deleteCookieNamed("sessionKey");//if we excute this line code the session of the login will get logged out and reaches home page
         driver.get("http://google.com");
+
+
     }
 }
