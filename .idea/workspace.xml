@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="Commit 05 August udemy Screenshot">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/BrokenLink_Automate_110.java" afterDir="false" />
+    <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/BrokenLink_Automate_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/BrokenLink_Automate_110.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -438,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754414281173</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Commit 06 August udemy broken link">
+      <option name="closed" value="true" />
+      <created>1754503066323</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1754503066323</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 07 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 14 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 16 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 17 January 2025 Hash set" />
@@ -478,6 +485,7 @@
     <MESSAGE value="Commit 26 July Taskwu" />
     <MESSAGE value="Commit 03 August Taskwu" />
     <MESSAGE value="Commit 05 August udemy Screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 05 August udemy Screenshot" />
+    <MESSAGE value="Commit 06 August udemy broken link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 06 August udemy broken link" />
   </component>
 </project>
