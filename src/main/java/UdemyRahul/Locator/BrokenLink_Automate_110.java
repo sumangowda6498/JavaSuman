@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.Assert;
+import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
@@ -27,6 +28,7 @@ public class BrokenLink_Automate_110 {
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 
       List<WebElement> links=driver.findElements(By.cssSelector("li[class='gf-li'] a"));
+        SoftAssert a=new SoftAssert();
       for (WebElement link:links){
           System.out.println(link.getText());
       }
@@ -37,10 +39,14 @@ public class BrokenLink_Automate_110 {
             conn2.connect();
             int respCode2=conn2.getResponseCode();
             System.out.println(respCode2);
-            if(respCode2>400){
-                System.out.println("The lnk with text "+link.getText()+"  broken with code"+respCode2);
-                Assert.assertTrue(false);
-            }
+
+            a.assertTrue(respCode2<400,"The lnk with text "+link.getText()+"  broken with code "+respCode2);
+//            if(respCode2>400){
+//                System.out.println("The lnk with text "+link.getText()+"  broken with code"+respCode2);
+//                Assert.assertTrue(false);
+//            }
+
+            a.assertAll();// it faills/pass all reamaing stored script
         }
 
 //        String url=driver.findElement(By.cssSelector("a[href*='soapui']")).getAttribute("href");//this is not broken
