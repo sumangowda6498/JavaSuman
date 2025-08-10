@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaStreams/Stream_1_115_Rahulashetty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/BrokenLink_Automate_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/BrokenLink_Automate_110.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,14 +270,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00027" summary="Commit 27 march udemy rakesh 2025 Task">
-      <option name="closed" value="true" />
-      <created>1743097549978</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1743097549978</updated>
-    </task>
     <task id="LOCAL-00028" summary="Commit 19 April udemy rakesh 2025 Task 75">
       <option name="closed" value="true" />
       <created>1745072579468</created>
@@ -454,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754678492612</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Commit 10 August udemy broken link">
+      <option name="closed" value="true" />
+      <created>1754763646633</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1754763646635</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 16 January 2025 Class:Constructor" />
     <MESSAGE value="Commit 17 January 2025 Hash set" />
     <MESSAGE value="Commit 14 march udemy rakesh 2025 Task" />
     <MESSAGE value="Commit 17 march udemy rakesh 2025 Task" />
@@ -494,6 +493,7 @@
     <MESSAGE value="Commit 05 August udemy Screenshot" />
     <MESSAGE value="Commit 06 August udemy broken link" />
     <MESSAGE value="Commit 09 August udemy broken link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 09 August udemy broken link" />
+    <MESSAGE value="Commit 10 August udemy broken link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 10 August udemy broken link" />
   </component>
 </project>
