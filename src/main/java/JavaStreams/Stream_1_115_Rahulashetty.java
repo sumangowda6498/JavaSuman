@@ -3,7 +3,10 @@ package JavaStreams;
 import org.testng.annotations.Test;
 
 import javax.sound.midi.Soundbank;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Stream;
 
 public class Stream_1_115_Rahulashetty {
@@ -28,7 +31,7 @@ public class Stream_1_115_Rahulashetty {
 
    }
 
-@Test
+//@Test
    public void streamFilter()
    {
        ArrayList<String> names=new ArrayList<String>();
@@ -60,5 +63,15 @@ public class Stream_1_115_Rahulashetty {
        names.stream().filter(s->s.length()>4).forEach(s->System.out.println(s));
        names.stream().filter(s->s.length()>4).limit(1).forEach(s->System.out.println(s));
 
+   }
+
+@Test
+   public void streamMap(){
+        //print the names which has the last letter as "n" with uppercase
+        Stream.of("Abhijit","Suman","Sandesh","Arjun").filter(s->s.endsWith("n")).map(s->s.toUpperCase()).forEach(s-> System.out.println(s));
+
+        //print the names which have first letter as "a" with upper case
+        List<String> names= Arrays.asList("Azbhijit","Suman","Sandesh","Arjun");
+        names.stream().filter(s->s.startsWith("A")).sorted().map(s->s.toUpperCase()).forEach(s-> System.out.println(s));
    }
 }
