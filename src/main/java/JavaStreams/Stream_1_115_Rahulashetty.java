@@ -1,5 +1,6 @@
 package JavaStreams;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import javax.sound.midi.Soundbank;
@@ -73,5 +74,18 @@ public class Stream_1_115_Rahulashetty {
         //print the names which have first letter as "a" with upper case
         List<String> names= Arrays.asList("Azbhijit","Suman","Sandesh","Arjun");
         names.stream().filter(s->s.startsWith("A")).sorted().map(s->s.toUpperCase()).forEach(s-> System.out.println(s));
-   }
+
+  //concat Array method
+    ArrayList<String> names1=new ArrayList<String>();
+    names1.add("man");
+    names1.add("men");
+    names1.add("Woman");
+
+    //merging two differnt lists
+    Stream<String> newStream=Stream.concat(names1.stream(), names.stream());
+    //newStream.sorted().forEach(s->System.out.println(s));
+    boolean flag=newStream.anyMatch(s->s.equalsIgnoreCase("Ad77am"));
+    System.out.println(flag);
+    Assert.assertTrue(flag);
+    }
 }

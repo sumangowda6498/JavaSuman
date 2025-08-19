@@ -270,14 +270,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00030" summary="Commit 30 May Task">
-      <option name="closed" value="true" />
-      <created>1748602024005</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1748602024005</updated>
-    </task>
     <task id="LOCAL-00031" summary="Commit 30 May Task">
       <option name="closed" value="true" />
       <created>1748602061557</created>
@@ -454,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754929014776</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Commit 18 August udemy Stream_1_115_Rahulashetty">
+      <option name="closed" value="true" />
+      <created>1755540694826</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1755540694826</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 17 march udemy rakesh 2025 Task" />
     <MESSAGE value="Commit 27 march udemy rakesh 2025 Task" />
     <MESSAGE value="Commit 19 April udemy rakesh 2025 Task 75" />
     <MESSAGE value="Commit 25 udemy rakesh 2025 Task 90" />
@@ -494,14 +493,15 @@
     <MESSAGE value="Commit 10 August udemy broken link" />
     <MESSAGE value="Commit 10 August udemy Stream_1_115_Rahulashetty" />
     <MESSAGE value="Commit 11 August udemy Stream_1_115_Rahulashetty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 11 August udemy Stream_1_115_Rahulashetty" />
+    <MESSAGE value="Commit 18 August udemy Stream_1_115_Rahulashetty" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 18 August udemy Stream_1_115_Rahulashetty" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaStreams/Stream_1_115_Rahulashetty.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
