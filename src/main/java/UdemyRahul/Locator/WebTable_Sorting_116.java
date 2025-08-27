@@ -30,5 +30,15 @@ public class WebTable_Sorting_116 {
         List<String> sortedlist=elementName.stream().sorted().collect(Collectors.toList());
 
         Assert.assertTrue(sortedlist.equals(elementName));
+
+        //Scan the name coloumn with    getText->Beans-> Print the priceof the Beans
+       List<String> price= elementList.stream().filter(s->s.getText().contains("Beans")).map(s->getPriceVeggie(s)).collect(Collectors.toList());
+
+        price.forEach(a->System.out.println(a));
+    }
+
+    private static String getPriceVeggie(WebElement s) {
+       String priceValue= s.findElement(By.xpath("following-sibling::td[1]")).getText(); //  //tr/td[1]/following-sibling::td[1] so s=//tr/td[1]
+        return  priceValue;
     }
 }
