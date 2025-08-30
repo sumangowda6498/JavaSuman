@@ -15,8 +15,7 @@ public class Filter_WebElementStream_120 {
         WebDriver driver=new EdgeDriver();
         driver.get("https://rahulshettyacademy.com/seleniumPractise/#/offers");
         driver.manage().window().maximize();
-
-        driver.findElement(By.id("search-field")).sendKeys("Rice");
+            driver.findElement(By.id("search-field")).sendKeys("Rice");
         List<WebElement> veggeis=driver.findElements(By.xpath("//tr/td[1]"));
 
         //5 results
