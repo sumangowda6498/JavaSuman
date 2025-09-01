@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Invoking_MultipleWindow_125.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Invoking_MultipleWindow_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/Locator/Invoking_MultipleWindow_125.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,14 +270,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00038" summary="Commit 01 July Taskwu">
-      <option name="closed" value="true" />
-      <created>1751392282701</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1751392282701</updated>
-    </task>
     <task id="LOCAL-00039" summary="Commit 06 July Taskwu">
       <option name="closed" value="true" />
       <created>1751740457844</created>
@@ -454,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756577800787</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Commit 31 August udemy Stream_1_125_Rahulashetty window handle">
+      <option name="closed" value="true" />
+      <created>1756662283834</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1756662283835</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 20 June Taskwe" />
     <MESSAGE value="Commit 20 June Taskwu" />
     <MESSAGE value="Commit 30 June Taskwu" />
     <MESSAGE value="Commit 01 July Taskwu" />
@@ -494,7 +493,8 @@
     <MESSAGE value="Commit 28 August udemy Stream_1_118_Rahulashetty" />
     <MESSAGE value="Commit 29 August udemy Stream_1_120_Rahulashetty" />
     <MESSAGE value="Commit 30 August udemy Stream_1_122_Rahulashetty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 30 August udemy Stream_1_122_Rahulashetty" />
+    <MESSAGE value="Commit 31 August udemy Stream_1_125_Rahulashetty window handle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 31 August udemy Stream_1_125_Rahulashetty window handle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

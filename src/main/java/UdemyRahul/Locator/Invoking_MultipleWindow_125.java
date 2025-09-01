@@ -1,15 +1,16 @@
 package UdemyRahul.Locator;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WindowType;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Iterator;
 import java.util.Set;
 
 public class Invoking_MultipleWindow_125 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         System.setProperty("webdriver.edge.driver","resources/msedgedriver.exe");
 
         WebDriver driver=new EdgeDriver();
@@ -28,6 +29,12 @@ public class Invoking_MultipleWindow_125 {
        // String coureseName=driver.findElements(By.cssSelector("a[href*='https://courses.rahulshettyacademy.com/p/cypress-modern-automation-testing-from-scratch-framework'])")).get(1).getText();
        String coureseName= driver.findElement(By.xpath("//*[@id=\"courses-block\"]/div[2]/div/div[2]/div[1]/h2/a")).getText();
         driver.switchTo().window(parentWindow);
-        driver.findElement(By.cssSelector("[name='name']")).sendKeys(coureseName);
+        WebElement name=driver.findElement(By.cssSelector("[name='name']"));
+        //driver.findElement(By.cssSelector("[name='name']")).sendKeys(coureseName);
+        name.sendKeys(coureseName);
+
+        //Take the screenshot of perticular elelment
+        File file=name.getScreenshotAs(OutputType.FILE);
+        FileUtils.copyFile(file, new File("logo.png"));
     }
 }
