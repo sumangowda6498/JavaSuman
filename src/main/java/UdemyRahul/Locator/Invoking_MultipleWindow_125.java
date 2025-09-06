@@ -36,5 +36,11 @@ public class Invoking_MultipleWindow_125 {
         //Take the screenshot of perticular elelment
         File file=name.getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file, new File("logo.png"));
+
+
+        //get height and width of webElement
+        System.out.println("Height: "+name.getRect().getDimension().getHeight());
+        System.out.println("Width: "+name.getRect().getDimension().getWidth());
+
     }
 }

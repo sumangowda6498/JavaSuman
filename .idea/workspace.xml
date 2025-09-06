@@ -270,14 +270,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00039" summary="Commit 06 July Taskwu">
-      <option name="closed" value="true" />
-      <created>1751740457844</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1751740457844</updated>
-    </task>
     <task id="LOCAL-00040" summary="Commit 06 July Taskwu">
       <option name="closed" value="true" />
       <created>1751825933654</created>
@@ -454,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756662283835</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Commit 01 September udemy Stream_1_126_Rahulashetty CApture screenshot of perticular element">
+      <option name="closed" value="true" />
+      <created>1756747547246</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1756747547247</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 20 June Taskwu" />
     <MESSAGE value="Commit 30 June Taskwu" />
     <MESSAGE value="Commit 01 July Taskwu" />
     <MESSAGE value="Commit 06 July Taskwu" />
@@ -494,7 +493,8 @@
     <MESSAGE value="Commit 29 August udemy Stream_1_120_Rahulashetty" />
     <MESSAGE value="Commit 30 August udemy Stream_1_122_Rahulashetty" />
     <MESSAGE value="Commit 31 August udemy Stream_1_125_Rahulashetty window handle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 31 August udemy Stream_1_125_Rahulashetty window handle" />
+    <MESSAGE value="Commit 01 September udemy Stream_1_126_Rahulashetty CApture screenshot of perticular element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 01 September udemy Stream_1_126_Rahulashetty CApture screenshot of perticular element" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
