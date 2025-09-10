@@ -45,11 +45,7 @@
 
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-devtools-v113</
-
-
-
-                    artifactId> <!-- adjust version if needed -->
+            <artifactId>selenium-devtools-v113</artifactId> <!-- adjust version if needed -->
             <version>4.17.0</version>
         </dependency>
 
