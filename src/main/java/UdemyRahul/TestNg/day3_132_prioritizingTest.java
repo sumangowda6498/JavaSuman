@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class day3_132_prioritizingTest {
     @Test
     public  void webLoginCarLoan(){
-        System.out.println("WebLogin");
+        System.out.println("WebLoginCar");
     }
 
     @Test
@@ -15,6 +15,6 @@ public class day3_132_prioritizingTest {
 
     @Test
     public void apiLoginCarLoan(){
-        System.out.println("apilogin");
+        System.out.println("apiloginCar");
     }
 }

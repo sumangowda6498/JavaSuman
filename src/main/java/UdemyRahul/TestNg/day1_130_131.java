@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class day1_130_131{
     @Test
-    public  void demo(){
+    public  void demo1(){
         System.out.println("day1");
     }
 
