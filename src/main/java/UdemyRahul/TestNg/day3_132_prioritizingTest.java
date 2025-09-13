@@ -14,7 +14,7 @@ public class day3_132_prioritizingTest {
     }
 
     @Test
-    public void apiLoginCarLoan(){
+    public void mobileapiLoginCarLoan(){
         System.out.println("apiloginCar");
     }
 }

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/testng2_packageLevel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,25 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Alphabet_patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Checkbox62.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HalloRightTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarsTraingle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarsTraingle_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/suman/IdeaProjects/AmazonTestNg_CrossBrowserr&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Alphabet_patterns.executor": "Run",
+    "Application.Checkbox62.executor": "Run",
+    "Application.HalloRightTriangle.executor": "Run",
+    "Application.StarsTraingle.executor": "Run",
+    "Application.StarsTraingle_Reverse.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/suman/IdeaProjects/JavaSuman",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\suman\IdeaProjects\JavaSuman" />
       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\resources" />
       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java\UdemyRahul\Locator" />
       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java" />
@@ -271,14 +272,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00043" summary="Commit 12 July Taskwu">
-      <option name="closed" value="true" />
-      <created>1752342917237</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1752342917237</updated>
-    </task>
     <task id="LOCAL-00044" summary="Commit 20 July Taskwu">
       <option name="closed" value="true" />
       <created>1753031932265</created>
@@ -455,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757613468176</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Commit 12 September udemy TestNg_1_126_Rahulashetty CApture">
+      <option name="closed" value="true" />
+      <created>1757699344124</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1757699344124</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 06 July Taskwu" />
     <MESSAGE value="Commit 09 July Taskwu" />
     <MESSAGE value="Commit 10 July Taskwu" />
     <MESSAGE value="Commit 12 July Taskwu" />
@@ -495,7 +495,8 @@
     <MESSAGE value="Commit 01 September udemy Stream_1_126_Rahulashetty CApture screenshot of perticular element" />
     <MESSAGE value="Commit 06 September udemy Stream_1_126_Rahulashetty CApture screenshot of perticular element" />
     <MESSAGE value="Commit 11 September udemy TestNg_1_126_Rahulashetty CApture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 11 September udemy TestNg_1_126_Rahulashetty CApture" />
+    <MESSAGE value="Commit 12 September udemy TestNg_1_126_Rahulashetty CApture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 12 September udemy TestNg_1_126_Rahulashetty CApture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
