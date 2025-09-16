@@ -1,5 +1,6 @@
 package UdemyRahul.TestNg;
 
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
 
 public class day3_homeloan {
@@ -16,5 +17,9 @@ public class day3_homeloan {
     @Test
     public void apiLoginHomeLoan(){
         System.out.println("Homeapilogin");
+    }
+    @AfterSuite
+    public void aftersuitemethod(){
+        System.out.println("After suite method 2");
     }
 }
