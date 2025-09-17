@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Smoke_regression">
+        <groups>
+            <run>
+                <include name="Smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="UdemyRahul.TestNg.day3_homeloan"></class>
+            <class name="UdemyRahul.TestNg.day1_130_131"></class>
+            <class name="UdemyRahul.TestNg.day3_132_prioritizingTest"></class>
+            <class name="UdemyRahul.TestNg.day2_131"></class>
+        </classes>
+    </test>
+</suite>

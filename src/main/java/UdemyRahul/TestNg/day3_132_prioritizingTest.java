@@ -13,7 +13,7 @@ public class day3_132_prioritizingTest {
         System.out.println("mobileLogin");
     }
 
-    @Test
+    @Test(groups = {"Smoke"})
     public void mobileapiLoginCarLoan(){
         System.out.println("apiloginCar");
     }

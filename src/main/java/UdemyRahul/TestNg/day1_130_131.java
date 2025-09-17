@@ -8,7 +8,7 @@ public class day1_130_131{
         System.out.println("day1");
     }
 
-    @Test
+    @Test(groups = {"Smoke"})
     public void demo2(){
         System.out.println("day2");
     }

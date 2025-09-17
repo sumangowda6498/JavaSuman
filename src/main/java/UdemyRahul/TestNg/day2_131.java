@@ -10,7 +10,7 @@ public class day2_131 {
     public void demoAfter() {
         System.out.println("I will execute last After test");
     }
-    @Test
+    @Test(groups = {"Smoke"})
     public  void demo(){
         System.out.println("day3");
     }
