@@ -4,7 +4,8 @@
     <test verbose="2" preserve-order="true" name="Smoke_regression">
         <groups>
             <run>
-                <include name="Smoke"/>
+               <!-- <include name="Smoke"/> --> 
+                <exclude name="Smoke"></exclude>
             </run>
         </groups>
         <classes>

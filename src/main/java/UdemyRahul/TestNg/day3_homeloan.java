@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class day3_homeloan {
-    @Test
+    @Test(dependsOnMethods ={"mobileLoginCHomeLoan","apiLoginHomeLoan"})
     public  void webLoginHomeLoan(){
         System.out.println("HomeWebLogin");
     }
@@ -16,9 +16,13 @@ public class day3_homeloan {
         System.out.println("HomemobileLogin");
     }
 
-    @Test
+    @Test(dependsOnMethods ={"mobileLoginCHomeLoan"})
     public void apiLoginHomeLoan(){
         System.out.println("Homeapilogin");
+    }
+    @Test(enabled = false)
+    public void mobileLogin(){
+        System.out.println("mobile login");
     }
     @AfterSuite
     public void aftersuitemethod(){
@@ -34,5 +38,8 @@ public class day3_homeloan {
         System.out.println(" Afterclass day3 homeloan");
 
     }
-
+    @Test(timeOut = 5000)
+    public void mobileLogintimeout() {
+        System.out.println("mobile login timeout");
+    }
 }

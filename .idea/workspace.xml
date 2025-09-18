@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day2_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day2_131.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_homeloan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_homeloan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,14 +272,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00046" summary="Commit 03 August Taskwu">
-      <option name="closed" value="true" />
-      <created>1754236593279</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1754236593279</updated>
-    </task>
     <task id="LOCAL-00047" summary="Commit 05 August udemy Screenshot">
       <option name="closed" value="true" />
       <created>1754414281173</created>
@@ -459,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758044041851</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Commit 16 September udemy TestNg_1_137_Rahulashetty CApture">
+      <option name="closed" value="true" />
+      <created>1758131836380</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1758131836381</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 12 July Taskwu" />
     <MESSAGE value="Commit 20 July Taskwu" />
     <MESSAGE value="Commit 26 July Taskwu" />
     <MESSAGE value="Commit 03 August Taskwu" />
@@ -499,7 +495,8 @@
     <MESSAGE value="Commit 12 September udemy TestNg_1_126_Rahulashetty CApture" />
     <MESSAGE value="Commit 14 September udemy TestNg_1_126_Rahulashetty CApture" />
     <MESSAGE value="Commit 16 September udemy TestNg_1_136_Rahulashetty CApture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 16 September udemy TestNg_1_136_Rahulashetty CApture" />
+    <MESSAGE value="Commit 16 September udemy TestNg_1_137_Rahulashetty CApture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 16 September udemy TestNg_1_137_Rahulashetty CApture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
