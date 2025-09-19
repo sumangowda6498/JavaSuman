@@ -8,7 +8,9 @@
                 <exclude name="Smoke"></exclude>
             </run>
         </groups>
+        <parameter name="URL" value="qa139_parameter_Classlevel"/>
         <classes>
+
             <class name="UdemyRahul.TestNg.day3_homeloan"></class>
             <class name="UdemyRahul.TestNg.day1_130_131"></class>
             <class name="UdemyRahul.TestNg.day3_132_prioritizingTest"></class>
