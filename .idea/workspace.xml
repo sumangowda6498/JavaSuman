@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day4_parameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day1_130_131.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng2_packageLevel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng2_packageLevel.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
       <recent name="C:\Users\sumana\IdeaProjects\PracticeJava\src\main\java\Chapter7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="UdemyRahul.TestNg" />
       <recent name="UdemyRahul.Locator" />
       <recent name="Chapter_Date" />
       <recent name="CoreJavaAlgorithms" />
@@ -273,14 +273,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00048" summary="Commit 06 August udemy broken link">
-      <option name="closed" value="true" />
-      <created>1754503066323</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1754503066323</updated>
-    </task>
     <task id="LOCAL-00049" summary="Commit 09 August udemy broken link">
       <option name="closed" value="true" />
       <created>1754678492612</created>
@@ -457,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758218503448</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Commit 19 September udemy TestNg_1_137_Rahulashetty Parameterization">
+      <option name="closed" value="true" />
+      <created>1758305625591</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1758305625592</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 26 July Taskwu" />
     <MESSAGE value="Commit 03 August Taskwu" />
     <MESSAGE value="Commit 05 August udemy Screenshot" />
     <MESSAGE value="Commit 06 August udemy broken link" />
@@ -497,7 +496,8 @@
     <MESSAGE value="Commit 16 September udemy TestNg_1_136_Rahulashetty CApture" />
     <MESSAGE value="Commit 16 September udemy TestNg_1_137_Rahulashetty CApture" />
     <MESSAGE value="Commit 18 September udemy TestNg_1_137_Rahulashetty HelperAttribute" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 18 September udemy TestNg_1_137_Rahulashetty HelperAttribute" />
+    <MESSAGE value="Commit 19 September udemy TestNg_1_137_Rahulashetty Parameterization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 19 September udemy TestNg_1_137_Rahulashetty Parameterization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

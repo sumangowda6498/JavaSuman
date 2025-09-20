@@ -9,12 +9,14 @@
             </run>
         </groups>
         <parameter name="URL" value="qa139_parameter_Classlevel"/>
+        <parameter name="API_key" value="qa140_apikey"/>
         <classes>
 
-            <class name="UdemyRahul.TestNg.day3_homeloan"></class>
+           <class name="UdemyRahul.TestNg.day3_homeloan"></class>
             <class name="UdemyRahul.TestNg.day1_130_131"></class>
             <class name="UdemyRahul.TestNg.day3_132_prioritizingTest"></class>
             <class name="UdemyRahul.TestNg.day2_131"></class>
+            <class name="UdemyRahul.TestNg.day4_parameter"></class>
         </classes>
     </test>
 </suite>
