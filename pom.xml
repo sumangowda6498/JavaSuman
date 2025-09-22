@@ -48,6 +48,16 @@
             <artifactId>selenium-devtools-v113</artifactId> <!-- adjust version if needed -->
             <version>4.17.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-jvm-deps</artifactId>
+            <version>1.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xbean</groupId>
+            <artifactId>xbean-reflect</artifactId>
+            <version>3.7</version>
+        </dependency>
 
 
     </dependencies>

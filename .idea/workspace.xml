@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day4_parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNG2/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNG2/NewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/SubClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng137_2_Smoketestl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day3_132_prioritizingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day4_parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/day4_parameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,14 +279,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00049" summary="Commit 09 August udemy broken link">
-      <option name="closed" value="true" />
-      <created>1754678492612</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1754678492612</updated>
-    </task>
     <task id="LOCAL-00050" summary="Commit 10 August udemy broken link">
       <option name="closed" value="true" />
       <created>1754763646633</created>
@@ -457,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758305625592</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Commit 20 September udemy TestNg_1_137_Rahulashetty Parameterization">
+      <option name="closed" value="true" />
+      <created>1758391321742</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1758391321743</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 03 August Taskwu" />
     <MESSAGE value="Commit 05 August udemy Screenshot" />
     <MESSAGE value="Commit 06 August udemy broken link" />
     <MESSAGE value="Commit 09 August udemy broken link" />
@@ -497,7 +502,8 @@
     <MESSAGE value="Commit 16 September udemy TestNg_1_137_Rahulashetty CApture" />
     <MESSAGE value="Commit 18 September udemy TestNg_1_137_Rahulashetty HelperAttribute" />
     <MESSAGE value="Commit 19 September udemy TestNg_1_137_Rahulashetty Parameterization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 19 September udemy TestNg_1_137_Rahulashetty Parameterization" />
+    <MESSAGE value="Commit 20 September udemy TestNg_1_137_Rahulashetty Parameterization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 20 September udemy TestNg_1_137_Rahulashetty Parameterization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

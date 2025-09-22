@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NewTest_testng2">
+    <test verbose="2" preserve-order="true" name="C:/Users/suman/IdeaProjects/JavaSuman/src/main/java/UdemyRahul/TestNG2/NewTest.java">
+        <groups>
+            <run>
+                <include name="action1"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="UdemyRahul.TestNG2.NewTest"></class>
+        </classes>
+    </test>
+</suite>
