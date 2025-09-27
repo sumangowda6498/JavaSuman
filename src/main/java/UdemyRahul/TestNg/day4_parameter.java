@@ -1,5 +1,6 @@
 package UdemyRahul.TestNg;
 
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 public class day4_parameter {
@@ -11,6 +12,7 @@ public class day4_parameter {
     @Test
     public void mobileLoginCHomeLoan(){
         System.out.println("HomemobileLogin");
+        Assert.assertTrue(false);
     }
 
     @Test(dependsOnMethods ={"mobileLoginCHomeLoan"})

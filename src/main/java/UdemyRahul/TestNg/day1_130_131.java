@@ -11,6 +11,7 @@ public class day1_130_131{
     public  void demo1(String urlname){
         System.out.println("day1");
         System.out.println(urlname);
+
     }
 
     @Test(groups = {"Smoke"})
