@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parllel_test" parallel="tests" thread-count="2">
+    <listeners>
+        <listener class-name="UdemyRahul.TestNg.Listener"></listener>
+    </listeners>
+    <test name="loan_Test" parallel="classes" thread-count="2">
+        <parameter name="URL" value="qa139_parameter_Classlevel"/>
+        <parameter name="API_key" value="qa140_apikey"/>
+        <classes>
+
+            <class name="UdemyRahul.TestNg.day3_homeloan"></class>
+            <class name="UdemyRahul.TestNg.day1_130_131"></class>
+            <class name="UdemyRahul.TestNg.day3_132_prioritizingTest"></class>
+
+        </classes>
+    </test>
+    <test name="loan_test2">
+        <parameter name="URL" value="qa139_parameter_Classlevel"/>
+        <parameter name="API_key" value="qa140_apikey"/>
+        <classes>
+            <class name="UdemyRahul.TestNg.day2_131"></class>
+            <class name="UdemyRahul.TestNg.day4_parameter"></class>
+        </classes>
+
+    </test>
+</suite>

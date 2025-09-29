@@ -12,6 +12,7 @@ public class Listener implements ITestListener {
     @Override
     public void onTestFailure(ITestResult result){
         System.out.println("Failure------------------------------------------------------");
+        System.out.println("****I failed executedListner passcode:********** "+result.getName());
     }
     @Override
     public void onTestSkipped(ITestResult result){
