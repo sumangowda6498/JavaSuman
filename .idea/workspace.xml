@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db220dd1-5830-413d-b337-474d6b09bdf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testNg_Parllel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/CoreJava/PS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/CoreJava/PS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/CoreJava/PS2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UdemyRahul/TestNg/Listener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,14 +273,6 @@
       <option name="project" value="LOCAL" />
       <updated>1742221941802</updated>
     </task>
-    <task id="LOCAL-00053" summary="Commit 18 August udemy Stream_1_115_Rahulashetty">
-      <option name="closed" value="true" />
-      <created>1755540694826</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1755540694826</updated>
-    </task>
     <task id="LOCAL-00054" summary="Commit 19 August udemy Stream_1_115_Rahulashetty">
       <option name="closed" value="true" />
       <created>1755626424715</created>
@@ -456,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758996085231</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Commit 29 September udemy TestNg_1_142_Rahulashetty Parllel run test and TestNg report">
+      <option name="closed" value="true" />
+      <created>1759167530393</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1759167530393</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit 10 August udemy broken link" />
     <MESSAGE value="Commit 10 August udemy Stream_1_115_Rahulashetty" />
     <MESSAGE value="Commit 11 August udemy Stream_1_115_Rahulashetty" />
     <MESSAGE value="Commit 18 August udemy Stream_1_115_Rahulashetty" />
@@ -496,7 +496,8 @@
     <MESSAGE value="Commit 22 September udemy TestNg_1_137_Rahulashetty Parameterization" />
     <MESSAGE value="Commit 23 September udemy TestNg_1_142_Rahulashetty Listeners" />
     <MESSAGE value="Commit 27 September udemy TestNg_1_142_Rahulashetty Listeners" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 27 September udemy TestNg_1_142_Rahulashetty Listeners" />
+    <MESSAGE value="Commit 29 September udemy TestNg_1_142_Rahulashetty Parllel run test and TestNg report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 29 September udemy TestNg_1_142_Rahulashetty Parllel run test and TestNg report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
