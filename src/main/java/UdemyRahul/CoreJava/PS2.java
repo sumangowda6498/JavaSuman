@@ -1,11 +1,11 @@
 package UdemyRahul.CoreJava;
 
-public class PS2 {
+public class PS2 extends  PS3 {
     int a; //class variable
 
-    public PS2(int a) { //contsructor name is same as class name //instance variavle
-
-    this.a=a;
+    public PS2(int a) {
+        super(a); //contsructor name is same as class name //instance variavle
+        this.a=a;
     }
 
     public int increment(){
